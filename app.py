@@ -59,17 +59,15 @@ with col2:
 st.markdown("---")
 
 # -------------------
-# Projects & Achievements
-# -------------------
-st.header("📂 Projects & Achievements")
+st.header("📂 Projects")
 st.subheader("AI-Powered Course & Career Advisor")
 st.write("Developed a web app using Generative AI to guide SPM graduates in choosing degree programs and career pathways.")
 
 st.subheader("Smart Traffic Management System")
 st.write("Designed an IoT-based project to reduce traffic light accidents in city areas.")
 
-st.subheader("Achievements")
-st.write("- 🏆 Dean’s List Award (2023, 2024)")
+
+
 
 st.markdown("---")
 
